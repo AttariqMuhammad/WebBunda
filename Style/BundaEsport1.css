@@ -1,0 +1,1610 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-show-navigation-controls: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: valorant;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 6974px;
+	font-family: valorant;
+	background-color: rgba(236,232,225,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-show-navigation-controls: true;
+	--web-enable-deep-linking: true;
+	--web-page-font: valorant;
+}
+#wallpaper_valorant {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(15,25,35,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 79.371px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#BUNDA_NON_BG {
+	position: absolute;
+	width: 65px;
+	height: 78px;
+	left: 40px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_3 {
+	fill: transparent;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	height: 91px;
+	left: 220px;
+	top: 0px;
+}
+#Group_6 {
+	position: absolute;
+	width: 482px;
+	height: 79.27px;
+	left: 145px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_3 {
+	position: absolute;
+	width: 52px;
+	height: 28px;
+	left: 56px;
+	top: 26px;
+	overflow: visible;
+}
+#Menu {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 28px;
+	text-align: left;
+	font-family: Segoe UI, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Group_5 {
+	position: absolute;
+	width: 482px;
+	height: 79.27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_4 {
+	position: absolute;
+	width: 150px;
+	height: 79px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_4 {
+	fill: transparent;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	height: 79px;
+	left: 0px;
+	top: 0px;
+}
+#Group_2 {
+	position: absolute;
+	width: 150px;
+	height: 79.27px;
+	left: 166px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_3 {
+	fill: transparent;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 150px;
+	height: 79.27px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Menu_s {
+	left: 49px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 28px;
+	text-align: left;
+	font-family: Segoe UI, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Group_1 {
+	position: absolute;
+	width: 150px;
+	height: 79.27px;
+	left: 332px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_2 {
+	fill: transparent;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 150px;
+	height: 79.27px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Menu_v {
+	left: 49px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	height: 28px;
+	text-align: left;
+	font-family: Segoe UI, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 4px;
+	height: 989.003px;
+	left: 784px;
+	top: 91px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 989px;
+	left: 1782px;
+	top: 91px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_5 {
+	fill: rgba(214,15,15,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 19px;
+	left: 138px;
+	top: 1061px;
+}
+#Path_12 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_12 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 631px;
+	left: 0px;
+	top: 6343px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_1__1 {
+	position: absolute;
+	width: 1361.007px;
+	height: 192.224px;
+	left: 245.031px;
+	top: 688.176px;
+	overflow: visible;
+}
+#Path_4 {
+	fill: rgba(17,16,16,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_4 {
+	mix-blend-mode: luminosity;
+	overflow: visible;
+	position: absolute;
+	width: 1430.565px;
+	height: 175.544px;
+	left: 0.183px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#BUNDA_ESPORT {
+	left: 2.11px;
+	top: 14.424px;
+	position: absolute;
+	overflow: visible;
+	width: 1357px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: VALORANT, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 175px;
+	color: rgba(214,15,15,1);
+}
+#Component_4__1 {
+	position: absolute;
+	width: 1933px;
+	height: 3046px;
+	left: 0px;
+	top: 3297px;
+	overflow: visible;
+}
+#Group_11 {
+	position: absolute;
+	width: 1933px;
+	height: 3046px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 1639px;
+	height: 1px;
+	left: 138.5px;
+	top: 0.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_10 {
+	position: absolute;
+	width: 1933px;
+	height: 3046px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_6__1 {
+	position: absolute;
+	width: 19px;
+	height: 19px;
+	left: 138px;
+	top: 101px;
+	overflow: visible;
+}
+#Rectangle_7 {
+	fill: rgba(214,15,15,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 19px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_8 {
+	fill: rgba(214,15,15,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 19px;
+	left: 1757px;
+	top: 237px;
+}
+#Group_9 {
+	position: absolute;
+	width: 1933px;
+	height: 3046px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#viper {
+	position: absolute;
+	width: 960px;
+	height: 540px;
+	left: 0px;
+	top: 213px;
+	overflow: visible;
+}
+#Team_Member_And_Skill {
+	left: 564px;
+	top: 49px;
+	position: absolute;
+	overflow: visible;
+	width: 793px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: XXII DONT-MESS-WITH-VIKINGS HARDCORE, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(255,70,84,1);
+}
+#Poloyoo {
+	left: 1027px;
+	top: 216px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: XXII DONT-MESS-WITH-VIKINGS HARDCORE, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,70,84,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+	left: 1027px;
+	top: 305px;
+	position: absolute;
+	overflow: hidden;
+	width: 674px;
+	height: 332px;
+	text-align: left;
+	font-family: Javanese Text, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,70,84,1);
+}
+#Group_8 {
+	position: absolute;
+	width: 1933px;
+	height: 2167px;
+	left: 0px;
+	top: 753px;
+	overflow: visible;
+}
+#Jett {
+	position: absolute;
+	width: 973px;
+	height: 547px;
+	left: 960px;
+	top: 0px;
+	overflow: visible;
+}
+#reyna {
+	position: absolute;
+	width: 960px;
+	height: 540px;
+	left: 0px;
+	top: 547px;
+	overflow: visible;
+}
+#Omen {
+	position: absolute;
+	width: 960px;
+	height: 540px;
+	left: 960px;
+	top: 1087px;
+	overflow: visible;
+}
+#Killjoy {
+	position: absolute;
+	width: 960px;
+	height: 540px;
+	left: 0px;
+	top: 1627px;
+	overflow: visible;
+}
+#Rectangle_9 {
+	fill: rgba(255,70,84,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 19px;
+	left: 138px;
+	top: 93px;
+}
+#Kyouboo {
+	left: 179px;
+	top: 73px;
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: XXII DONT-MESS-WITH-VIKINGS HARDCORE, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,70,84,1);
+}
+#Rectangle_10 {
+	fill: rgba(255,70,84,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 19px;
+	left: 1757px;
+	top: 612px;
+}
+#Rafly {
+	left: 1027px;
+	top: 592px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: XXII DONT-MESS-WITH-VIKINGS HARDCORE, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,70,84,1);
+}
+#Rectangle_11 {
+	fill: rgba(255,70,84,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 19px;
+	left: 138px;
+	top: 1175px;
+}
+#Uqi {
+	left: 179px;
+	top: 1155px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: XXII DONT-MESS-WITH-VIKINGS HARDCORE, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,70,84,1);
+}
+#Rectangle_12 {
+	fill: rgba(255,70,84,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 19px;
+	left: 1757px;
+	top: 1726px;
+}
+#SUMUHA_ {
+	left: 1028px;
+	top: 1696px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: XXII DONT-MESS-WITH-VIKINGS HARDCORE, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,70,84,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_bs {
+	left: 179px;
+	top: 162px;
+	position: absolute;
+	overflow: hidden;
+	width: 674px;
+	height: 332px;
+	text-align: left;
+	font-family: Javanese Text, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,70,84,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_bt {
+	left: 1027px;
+	top: 681px;
+	position: absolute;
+	overflow: hidden;
+	width: 674px;
+	height: 332px;
+	text-align: left;
+	font-family: Javanese Text, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,70,84,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_bu {
+	left: 179px;
+	top: 1244px;
+	position: absolute;
+	overflow: hidden;
+	width: 674px;
+	height: 332px;
+	text-align: left;
+	font-family: Javanese Text, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,70,84,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_bv {
+	left: 1027px;
+	top: 1785px;
+	position: absolute;
+	overflow: hidden;
+	width: 674px;
+	height: 332px;
+	text-align: left;
+	font-family: Javanese Text, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,70,84,1);
+}
+#Line_5 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 3046px;
+	left: 1776px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_5 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 668.245px;
+	height: 1px;
+	left: 1027px;
+	top: 631.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_6 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 668.245px;
+	height: 1px;
+	left: 179px;
+	top: 1232.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_7 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 668.245px;
+	height: 1px;
+	left: 1027px;
+	top: 1758.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_8 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 668.245px;
+	height: 1px;
+	left: 179px;
+	top: 2319.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_9 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_9 {
+	overflow: visible;
+	position: absolute;
+	width: 668.245px;
+	height: 1px;
+	left: 1027px;
+	top: 2861.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_15 {
+	fill: rgba(255,70,84,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 2160px;
+}
+#NEVER_FIGHT_ALONE {
+	left: 209px;
+	top: 2237px;
+	position: absolute;
+	overflow: visible;
+	width: 594px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: XXII DONT-MESS-WITH-VIKINGS HARDCORE, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(1,1,1,1);
+}
+#Rectangle_16 {
+	fill: rgba(17,16,16,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 1080px;
+	height: 720px;
+	left: 420px;
+	top: 2433px;
+}
+#Line_6 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 560px;
+	left: 802px;
+	top: 3487px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 6176px;
+	left: 138px;
+	top: 167px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_12 {
+	position: absolute;
+	width: 1518px;
+	height: 676px;
+	left: 138px;
+	top: 1224px;
+	overflow: visible;
+}
+#Component_2__1 {
+	position: absolute;
+	width: 1518px;
+	height: 676px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#BUNDA_NON_BG_b {
+	position: absolute;
+	width: 562px;
+	height: 676px;
+	left: 956px;
+	top: 0px;
+	overflow: visible;
+}
+#Intro {
+	left: 42px;
+	top: 101px;
+	position: absolute;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Javanese Text, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#We_Play_With_Brain_And_Brawn {
+	left: 41px;
+	top: 160px;
+	position: absolute;
+	overflow: visible;
+	width: 553px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Javanese Text, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(112,112,112,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_cc {
+	left: 41px;
+	top: 251px;
+	position: absolute;
+	overflow: visible;
+	width: 829px;
+	height: 332px;
+	text-align: left;
+	font-family: Javanese Text, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_6 {
+	fill: rgba(214,15,15,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 19px;
+	left: 0px;
+	top: 122px;
+}
+#Path_10 {
+	fill: rgba(214,15,15,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_10 {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 1px;
+	left: 95px;
+	top: 1372px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_5__1 {
+	opacity: 0.5;
+	position: absolute;
+	width: 19px;
+	height: 49px;
+	left: 1721px;
+	top: 2409px;
+	overflow: visible;
+}
+#Path_11 {
+	fill: rgba(17,16,16,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_11 {
+	overflow: visible;
+	position: absolute;
+	width: 19px;
+	height: 19px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_1 {
+	fill: rgba(17,16,16,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 24px;
+}
+#Ellipse_2 {
+	fill: rgba(17,16,16,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 39px;
+}
+#Line_7 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_7 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 1080px;
+	left: 1782px;
+	top: 2160px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_5__2 {
+	opacity: 0.5;
+	position: absolute;
+	width: 19px;
+	height: 49px;
+	left: 200px;
+	top: 2434px;
+	overflow: visible;
+}
+#Path_11_cl {
+	fill: rgba(17,16,16,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_11_cl {
+	overflow: visible;
+	position: absolute;
+	width: 19px;
+	height: 19px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_1_cm {
+	fill: rgba(17,16,16,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1_cm {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 24px;
+}
+#Ellipse_2_cn {
+	fill: rgba(17,16,16,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2_cn {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 39px;
+}
+#Component_5__3 {
+	opacity: 0.5;
+	position: absolute;
+	width: 19px;
+	height: 49px;
+	left: 1576px;
+	top: 3129px;
+	overflow: visible;
+}
+#Path_11_cp {
+	fill: rgba(17,16,16,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_11_cp {
+	overflow: visible;
+	position: absolute;
+	width: 19px;
+	height: 19px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_1_cq {
+	fill: rgba(17,16,16,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1_cq {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 24px;
+}
+#Ellipse_2_cr {
+	fill: rgba(17,16,16,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2_cr {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 39px;
+}
+#Line_8 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_8 {
+	overflow: visible;
+	position: absolute;
+	width: 1147px;
+	height: 1px;
+	left: 386.5px;
+	top: 3201.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_6__2 {
+	opacity: 0.5;
+	position: absolute;
+	width: 19px;
+	height: 19px;
+	left: 217px;
+	top: 2965px;
+	overflow: visible;
+}
+#Rectangle_7_cu {
+	fill: rgba(17,16,16,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7_cu {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 19px;
+	left: 0px;
+	top: 0px;
+}
+#Component_6__3 {
+	opacity: 0.5;
+	position: absolute;
+	width: 19px;
+	height: 19px;
+	left: 802px;
+	top: 2337px;
+	overflow: visible;
+}
+#Rectangle_7_cw {
+	fill: rgba(17,16,16,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7_cw {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 19px;
+	left: 0px;
+	top: 0px;
+}
+#Component_6__4 {
+	opacity: 0.5;
+	position: absolute;
+	width: 19px;
+	height: 19px;
+	left: 181px;
+	top: 2218px;
+	overflow: visible;
+}
+#Rectangle_7_cy {
+	fill: rgba(17,16,16,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7_cy {
+	position: absolute;
+	overflow: visible;
+	width: 19px;
+	height: 19px;
+	left: 0px;
+	top: 0px;
+}
+#Component_7__1 {
+	opacity: 0.5;
+	position: absolute;
+	width: 25px;
+	height: 5px;
+	left: 1672px;
+	top: 2569px;
+	overflow: visible;
+}
+#Rectangle_19 {
+	fill: rgba(17,16,16,1);
+}
+.Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	height: 5px;
+	left: 0px;
+	top: 0px;
+}
+#Component_7__2 {
+	opacity: 0.5;
+	position: absolute;
+	width: 25px;
+	height: 5px;
+	left: 200px;
+	top: 2839px;
+	overflow: visible;
+}
+#Rectangle_19_c {
+	fill: rgba(17,16,16,1);
+}
+.Rectangle_19_c {
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	height: 5px;
+	left: 0px;
+	top: 0px;
+}
+#Component_7__3 {
+	opacity: 0.5;
+	position: absolute;
+	width: 25px;
+	height: 5px;
+	left: 453px;
+	top: 3160px;
+	overflow: visible;
+}
+#Rectangle_19_da {
+	fill: rgba(17,16,16,1);
+}
+.Rectangle_19_da {
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	height: 5px;
+	left: 0px;
+	top: 0px;
+}
+#Component_7__4 {
+	opacity: 0.5;
+	position: absolute;
+	width: 25px;
+	height: 5px;
+	left: 294px;
+	top: 2531px;
+	overflow: visible;
+}
+#Rectangle_19_db {
+	fill: rgba(17,16,16,1);
+}
+.Rectangle_19_db {
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	height: 5px;
+	left: 0px;
+	top: 0px;
+}
+#Component_8__2 {
+	position: absolute;
+	width: 3px;
+	height: 3px;
+	left: 340px;
+	top: 2391px;
+	overflow: visible;
+}
+#Ellipse_3 {
+	fill: rgba(17,16,16,1);
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+}
+#Component_8__1 {
+	position: absolute;
+	width: 3px;
+	height: 3px;
+	left: 340px;
+	top: 2399px;
+	overflow: visible;
+}
+#Ellipse_3_da {
+	fill: rgba(17,16,16,1);
+}
+.Ellipse_3_da {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+}
+#Component_9__1 {
+	position: absolute;
+	width: 3px;
+	height: 8px;
+	left: 1130px;
+	top: 2334px;
+	overflow: visible;
+}
+#Component_8__3 {
+	position: absolute;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_3_dd {
+	fill: rgba(17,16,16,1);
+}
+.Ellipse_3_dd {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+}
+#Component_8__4 {
+	position: absolute;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 5px;
+	overflow: visible;
+}
+#Ellipse_3_df {
+	fill: rgba(17,16,16,1);
+}
+.Ellipse_3_df {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+}
+#Component_9__2 {
+	position: absolute;
+	width: 3px;
+	height: 8px;
+	left: 1575px;
+	top: 2664px;
+	overflow: visible;
+}
+#Component_8__3_dh {
+	position: absolute;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_3_di {
+	fill: rgba(17,16,16,1);
+}
+.Ellipse_3_di {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+}
+#Component_8__4_dj {
+	position: absolute;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 5px;
+	overflow: visible;
+}
+#Ellipse_3_dk {
+	fill: rgba(17,16,16,1);
+}
+.Ellipse_3_dk {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+}
+#Component_9__3 {
+	position: absolute;
+	width: 3px;
+	height: 8px;
+	left: 291px;
+	top: 2563px;
+	overflow: visible;
+}
+#Component_8__3_dm {
+	position: absolute;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_3_dn {
+	fill: rgba(17,16,16,1);
+}
+.Ellipse_3_dn {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+}
+#Component_8__4_do {
+	position: absolute;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 5px;
+	overflow: visible;
+}
+#Ellipse_3_dp {
+	fill: rgba(17,16,16,1);
+}
+.Ellipse_3_dp {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+}
+#Component_9__4 {
+	opacity: 0.5;
+	position: absolute;
+	width: 3px;
+	height: 8px;
+	left: 1525px;
+	top: 2394px;
+	overflow: visible;
+}
+#Component_8__3_dr {
+	position: absolute;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Ellipse_3_ds {
+	fill: rgba(17,16,16,1);
+}
+.Ellipse_3_ds {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+}
+#Component_8__4_dt {
+	position: absolute;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 5px;
+	overflow: visible;
+}
+#Ellipse_3_du {
+	fill: rgba(17,16,16,1);
+}
+.Ellipse_3_du {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+}
+#Component_7__5 {
+	opacity: 0.5;
+	position: absolute;
+	width: 25px;
+	height: 5px;
+	left: 1488px;
+	top: 2396px;
+	overflow: visible;
+}
+#Rectangle_19_dw {
+	fill: rgba(17,16,16,1);
+}
+.Rectangle_19_dw {
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	height: 5px;
+	left: 0px;
+	top: 0px;
+}
+#Component_8__5 {
+	opacity: 0.5;
+	position: absolute;
+	width: 3px;
+	height: 3px;
+	left: 1576px;
+	top: 2855px;
+	overflow: visible;
+}
+#Ellipse_3_dy {
+	fill: rgba(17,16,16,1);
+}
+.Ellipse_3_dy {
+	position: absolute;
+	overflow: visible;
+	width: 3px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+}

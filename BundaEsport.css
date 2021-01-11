@@ -22,7 +22,7 @@
 #Web_1920__1 {
 	position: absolute;
 	width: 1920px;
-	height: 6974px;
+	height: 8798px;
 	font-family: valorant;
 	background-color: rgba(236,232,225,1);
 	overflow: hidden;
@@ -78,7 +78,7 @@
 }
 #Group_6 {
 	position: absolute;
-	width: 707px;
+	width: 1157px;
 	height: 79.27px;
 	left: 145px;
 	top: 0px;
@@ -104,11 +104,11 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
-	color: rgba(112,112,112,1);
+	color: rgba(255,255,255,1);
 }
 #Group_5 {
 	position: absolute;
-	width: 707px;
+	width: 1157px;
 	height: 79.27px;
 	left: 0px;
 	top: 0px;
@@ -165,7 +165,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
-	color: rgba(112,112,112,1);
+	color: rgba(255,255,255,1);
 }
 #Group_1 {
 	position: absolute;
@@ -199,7 +199,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
-	color: rgba(112,112,112,1);
+	color: rgba(255,255,255,1);
 }
 #Group_13 {
 	position: absolute;
@@ -233,7 +233,75 @@
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
-	color: rgba(112,112,112,1);
+	color: rgba(255,255,255,1);
+}
+#Group_16 {
+	position: absolute;
+	width: 209px;
+	height: 79.27px;
+	left: 723px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_2_ {
+	fill: transparent;
+}
+.Path_2_ {
+	overflow: visible;
+	position: absolute;
+	width: 150px;
+	height: 79.27px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#CONTACT_US {
+	left: 49px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 161px;
+	height: 28px;
+	text-align: left;
+	font-family: Segoe UI, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Group_17 {
+	position: absolute;
+	width: 209px;
+	height: 79.27px;
+	left: 948px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_2_ba {
+	fill: transparent;
+}
+.Path_2_ba {
+	overflow: visible;
+	position: absolute;
+	width: 150px;
+	height: 79.27px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#GALLERY_ {
+	left: 49px;
+	top: 26px;
+	position: absolute;
+	overflow: hidden;
+	width: 161px;
+	height: 28px;
+	text-align: left;
+	font-family: Segoe UI, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
 }
 #Line_2 {
 	fill: transparent;
@@ -289,7 +357,7 @@
 	top: 1061px;
 }
 #Path_12 {
-	fill: rgba(0,0,0,1);
+	fill: rgba(15,25,35,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
@@ -301,9 +369,9 @@
 	overflow: visible;
 	position: absolute;
 	width: 1920px;
-	height: 631px;
+	height: 314px;
 	left: 0px;
-	top: 6343px;
+	top: 8484px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Component_1__1 {
@@ -329,7 +397,7 @@
 	position: absolute;
 	width: 1430.565px;
 	height: 175.544px;
-	left: 0.183px;
+	left: 0.182px;
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
@@ -359,7 +427,7 @@
 .Line_4 {
 	overflow: visible;
 	position: absolute;
-	width: 1639px;
+	width: 1638px;
 	height: 1px;
 	left: 138.5px;
 	top: 3297.5px;
@@ -407,9 +475,17 @@
 	top: 3510px;
 	overflow: visible;
 }
-#Team_Member_And_Skill {
+#Component_11__1 {
+	position: absolute;
+	width: 792px;
+	height: 100px;
 	left: 564px;
 	top: 3346px;
+	overflow: visible;
+}
+#Team_Member_And_Skill {
+	left: 0px;
+	top: 0px;
 	position: absolute;
 	overflow: visible;
 	width: 793px;
@@ -605,7 +681,7 @@
 	font-size: 50px;
 	color: rgba(255,70,84,1);
 }
-#Lorem_ipsum_dolor_sit_amet_con_bp {
+#Lorem_ipsum_dolor_sit_amet_con_bw {
 	left: 173px;
 	top: 4212px;
 	position: absolute;
@@ -619,7 +695,7 @@
 	font-size: 30px;
 	color: rgba(255,70,84,1);
 }
-#Lorem_ipsum_dolor_sit_amet_con_bq {
+#Lorem_ipsum_dolor_sit_amet_con_bx {
 	left: 1021px;
 	top: 4731px;
 	position: absolute;
@@ -633,7 +709,7 @@
 	font-size: 30px;
 	color: rgba(255,70,84,1);
 }
-#Lorem_ipsum_dolor_sit_amet_con_br {
+#Lorem_ipsum_dolor_sit_amet_con_by {
 	left: 173px;
 	top: 5294px;
 	position: absolute;
@@ -647,7 +723,7 @@
 	font-size: 30px;
 	color: rgba(255,70,84,1);
 }
-#Lorem_ipsum_dolor_sit_amet_con_bs {
+#Lorem_ipsum_dolor_sit_amet_con_bz {
 	left: 1021px;
 	top: 5835px;
 	position: absolute;
@@ -660,24 +736,6 @@
 	font-weight: normal;
 	font-size: 30px;
 	color: rgba(255,70,84,1);
-}
-#Line_5 {
-	fill: transparent;
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Line_5 {
-	overflow: visible;
-	position: absolute;
-	width: 1px;
-	height: 3046px;
-	left: 1776px;
-	top: 3297px;
-	transform: matrix(1,0,0,1,0,0);
 }
 #Path_5 {
 	fill: rgba(0,0,0,0);
@@ -769,6 +827,14 @@
 	top: 6158.5px;
 	transform: matrix(1,0,0,1,0,0);
 }
+#Component_10__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 2160px;
+	overflow: visible;
+}
 #Rectangle_15 {
 	fill: rgba(255,70,84,1);
 	stroke: rgba(112,112,112,1);
@@ -784,7 +850,7 @@
 	width: 1920px;
 	height: 1080px;
 	left: 0px;
-	top: 2160px;
+	top: 0px;
 }
 #NEVER_FIGHT_ALONE {
 	left: 209px;
@@ -800,6 +866,15 @@
 	font-size: 100px;
 	color: rgba(1,1,1,1);
 }
+#Component_12__1 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 1080px;
+	height: 720px;
+	left: 420px;
+	top: 2433px;
+	overflow: visible;
+}
 #Rectangle_16 {
 	fill: rgba(17,16,16,1);
 	stroke: rgba(112,112,112,1);
@@ -810,12 +885,13 @@
 	shape-rendering: auto;
 }
 .Rectangle_16 {
+	filter: drop-shadow(12px 12px 45px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	overflow: visible;
-	width: 1080px;
-	height: 720px;
-	left: 420px;
-	top: 2433px;
+	width: 1215px;
+	height: 855px;
+	left: 0px;
+	top: 0px;
 }
 #Line_6 {
 	fill: transparent;
@@ -830,27 +906,9 @@
 	overflow: visible;
 	position: absolute;
 	width: 1px;
-	height: 560px;
+	height: 555px;
 	left: 802px;
-	top: 3487px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Line_1 {
-	fill: transparent;
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Line_1 {
-	overflow: visible;
-	position: absolute;
-	width: 1px;
-	height: 6176px;
-	left: 138px;
-	top: 167px;
+	top: 3492px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Group_12 {
@@ -869,7 +927,8 @@
 	top: 0px;
 	overflow: visible;
 }
-#BUNDA_NON_BG_b {
+#BUNDA_NON_BG_cd {
+	filter: drop-shadow(10px 10px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
 	width: 562px;
 	height: 676px;
@@ -905,7 +964,7 @@
 	font-size: 40px;
 	color: rgba(112,112,112,1);
 }
-#Lorem_ipsum_dolor_sit_amet_con_b {
+#Lorem_ipsum_dolor_sit_amet_con_cg {
 	left: 41px;
 	top: 251px;
 	position: absolute;
@@ -1042,7 +1101,7 @@
 	top: 2434px;
 	overflow: visible;
 }
-#Path_11_ci {
+#Path_11_cp {
 	fill: rgba(17,16,16,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1051,7 +1110,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_11_ci {
+.Path_11_cp {
 	overflow: visible;
 	position: absolute;
 	width: 19px;
@@ -1060,7 +1119,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Ellipse_1_cj {
+#Ellipse_1_cq {
 	fill: rgba(17,16,16,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1069,7 +1128,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_1_cj {
+.Ellipse_1_cq {
 	position: absolute;
 	overflow: visible;
 	width: 10px;
@@ -1077,7 +1136,7 @@
 	left: 0px;
 	top: 24px;
 }
-#Ellipse_2_ck {
+#Ellipse_2_cr {
 	fill: rgba(17,16,16,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1086,7 +1145,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_2_ck {
+.Ellipse_2_cr {
 	position: absolute;
 	overflow: visible;
 	width: 10px;
@@ -1103,7 +1162,7 @@
 	top: 3129px;
 	overflow: visible;
 }
-#Path_11_cm {
+#Path_11_ct {
 	fill: rgba(17,16,16,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1112,7 +1171,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_11_cm {
+.Path_11_ct {
 	overflow: visible;
 	position: absolute;
 	width: 19px;
@@ -1121,7 +1180,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Ellipse_1_cn {
+#Ellipse_1_cu {
 	fill: rgba(17,16,16,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1130,7 +1189,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_1_cn {
+.Ellipse_1_cu {
 	position: absolute;
 	overflow: visible;
 	width: 10px;
@@ -1138,7 +1197,7 @@
 	left: 0px;
 	top: 24px;
 }
-#Ellipse_2_co {
+#Ellipse_2_cv {
 	fill: rgba(17,16,16,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1147,7 +1206,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_2_co {
+.Ellipse_2_cv {
 	position: absolute;
 	overflow: visible;
 	width: 10px;
@@ -1182,7 +1241,7 @@
 	top: 2965px;
 	overflow: visible;
 }
-#Rectangle_7_cr {
+#Rectangle_7_cy {
 	fill: rgba(17,16,16,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1191,7 +1250,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_7_cr {
+.Rectangle_7_cy {
 	position: absolute;
 	overflow: visible;
 	width: 19px;
@@ -1208,7 +1267,7 @@
 	top: 2337px;
 	overflow: visible;
 }
-#Rectangle_7_ct {
+#Rectangle_7_c {
 	fill: rgba(17,16,16,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1217,7 +1276,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_7_ct {
+.Rectangle_7_c {
 	position: absolute;
 	overflow: visible;
 	width: 19px;
@@ -1234,7 +1293,7 @@
 	top: 2218px;
 	overflow: visible;
 }
-#Rectangle_7_cv {
+#Rectangle_7_da {
 	fill: rgba(17,16,16,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1243,7 +1302,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Rectangle_7_cv {
+.Rectangle_7_da {
 	position: absolute;
 	overflow: visible;
 	width: 19px;
@@ -1280,10 +1339,10 @@
 	top: 2839px;
 	overflow: visible;
 }
-#Rectangle_19_cz {
+#Rectangle_19_c {
 	fill: rgba(17,16,16,1);
 }
-.Rectangle_19_cz {
+.Rectangle_19_c {
 	position: absolute;
 	overflow: visible;
 	width: 25px;
@@ -1300,10 +1359,10 @@
 	top: 3160px;
 	overflow: visible;
 }
-#Rectangle_19_c {
+#Rectangle_19_da {
 	fill: rgba(17,16,16,1);
 }
-.Rectangle_19_c {
+.Rectangle_19_da {
 	position: absolute;
 	overflow: visible;
 	width: 25px;
@@ -1320,10 +1379,10 @@
 	top: 2531px;
 	overflow: visible;
 }
-#Rectangle_19_da {
+#Rectangle_19_db {
 	fill: rgba(17,16,16,1);
 }
-.Rectangle_19_da {
+.Rectangle_19_db {
 	position: absolute;
 	overflow: visible;
 	width: 25px;
@@ -1360,10 +1419,10 @@
 	top: 2399px;
 	overflow: visible;
 }
-#Ellipse_3_c {
+#Ellipse_3_de {
 	fill: rgba(17,16,16,1);
 }
-.Ellipse_3_c {
+.Ellipse_3_de {
 	position: absolute;
 	overflow: visible;
 	width: 3px;
@@ -1388,10 +1447,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Ellipse_3_da {
+#Ellipse_3_dh {
 	fill: rgba(17,16,16,1);
 }
-.Ellipse_3_da {
+.Ellipse_3_dh {
 	position: absolute;
 	overflow: visible;
 	width: 3px;
@@ -1407,10 +1466,10 @@
 	top: 5px;
 	overflow: visible;
 }
-#Ellipse_3_dc {
+#Ellipse_3_dj {
 	fill: rgba(17,16,16,1);
 }
-.Ellipse_3_dc {
+.Ellipse_3_dj {
 	position: absolute;
 	overflow: visible;
 	width: 3px;
@@ -1427,7 +1486,7 @@
 	top: 2664px;
 	overflow: visible;
 }
-#Component_8__3_de {
+#Component_8__3_dl {
 	position: absolute;
 	width: 3px;
 	height: 3px;
@@ -1435,10 +1494,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Ellipse_3_df {
+#Ellipse_3_dm {
 	fill: rgba(17,16,16,1);
 }
-.Ellipse_3_df {
+.Ellipse_3_dm {
 	position: absolute;
 	overflow: visible;
 	width: 3px;
@@ -1446,7 +1505,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Component_8__4_dg {
+#Component_8__4_dn {
 	position: absolute;
 	width: 3px;
 	height: 3px;
@@ -1454,10 +1513,10 @@
 	top: 5px;
 	overflow: visible;
 }
-#Ellipse_3_dh {
+#Ellipse_3_do {
 	fill: rgba(17,16,16,1);
 }
-.Ellipse_3_dh {
+.Ellipse_3_do {
 	position: absolute;
 	overflow: visible;
 	width: 3px;
@@ -1473,7 +1532,7 @@
 	top: 2563px;
 	overflow: visible;
 }
-#Component_8__3_dj {
+#Component_8__3_dq {
 	position: absolute;
 	width: 3px;
 	height: 3px;
@@ -1481,10 +1540,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Ellipse_3_dk {
+#Ellipse_3_dr {
 	fill: rgba(17,16,16,1);
 }
-.Ellipse_3_dk {
+.Ellipse_3_dr {
 	position: absolute;
 	overflow: visible;
 	width: 3px;
@@ -1492,7 +1551,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Component_8__4_dl {
+#Component_8__4_ds {
 	position: absolute;
 	width: 3px;
 	height: 3px;
@@ -1500,10 +1559,10 @@
 	top: 5px;
 	overflow: visible;
 }
-#Ellipse_3_dm {
+#Ellipse_3_dt {
 	fill: rgba(17,16,16,1);
 }
-.Ellipse_3_dm {
+.Ellipse_3_dt {
 	position: absolute;
 	overflow: visible;
 	width: 3px;
@@ -1520,7 +1579,7 @@
 	top: 2394px;
 	overflow: visible;
 }
-#Component_8__3_do {
+#Component_8__3_dv {
 	position: absolute;
 	width: 3px;
 	height: 3px;
@@ -1528,10 +1587,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Ellipse_3_dp {
+#Ellipse_3_dw {
 	fill: rgba(17,16,16,1);
 }
-.Ellipse_3_dp {
+.Ellipse_3_dw {
 	position: absolute;
 	overflow: visible;
 	width: 3px;
@@ -1539,7 +1598,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Component_8__4_dq {
+#Component_8__4_dx {
 	position: absolute;
 	width: 3px;
 	height: 3px;
@@ -1547,10 +1606,10 @@
 	top: 5px;
 	overflow: visible;
 }
-#Ellipse_3_dr {
+#Ellipse_3_dy {
 	fill: rgba(17,16,16,1);
 }
-.Ellipse_3_dr {
+.Ellipse_3_dy {
 	position: absolute;
 	overflow: visible;
 	width: 3px;
@@ -1567,10 +1626,10 @@
 	top: 2396px;
 	overflow: visible;
 }
-#Rectangle_19_dt {
+#Rectangle_19_d {
 	fill: rgba(17,16,16,1);
 }
-.Rectangle_19_dt {
+.Rectangle_19_d {
 	position: absolute;
 	overflow: visible;
 	width: 25px;
@@ -1587,10 +1646,10 @@
 	top: 2855px;
 	overflow: visible;
 }
-#Ellipse_3_dv {
+#Ellipse_3_d {
 	fill: rgba(17,16,16,1);
 }
-.Ellipse_3_dv {
+.Ellipse_3_d {
 	position: absolute;
 	overflow: visible;
 	width: 3px;
@@ -1607,10 +1666,10 @@
 	top: 3723px;
 	overflow: visible;
 }
-#Rectangle_19_dx {
+#Rectangle_19_ea {
 	fill: rgba(255,70,84,1);
 }
-.Rectangle_19_dx {
+.Rectangle_19_ea {
 	position: absolute;
 	overflow: visible;
 	width: 25px;
@@ -1627,7 +1686,7 @@
 	top: 4291px;
 	overflow: visible;
 }
-#Path_11_dz {
+#Path_11_d {
 	fill: rgba(255,70,84,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1636,7 +1695,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_11_dz {
+.Path_11_d {
 	overflow: visible;
 	position: absolute;
 	width: 19px;
@@ -1688,7 +1747,7 @@
 	top: 4818px;
 	overflow: visible;
 }
-#Component_8__3_d {
+#Component_8__3_ea {
 	position: absolute;
 	width: 3px;
 	height: 3px;
@@ -1696,10 +1755,10 @@
 	top: 0px;
 	overflow: visible;
 }
-#Ellipse_3_d {
+#Ellipse_3_eb {
 	fill: rgba(255,70,84,1);
 }
-.Ellipse_3_d {
+.Ellipse_3_eb {
 	position: absolute;
 	overflow: visible;
 	width: 3px;
@@ -1707,7 +1766,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Component_8__4_d {
+#Component_8__4_ec {
 	position: absolute;
 	width: 3px;
 	height: 3px;
@@ -1715,10 +1774,10 @@
 	top: 5px;
 	overflow: visible;
 }
-#Ellipse_3_ea {
+#Ellipse_3_ed {
 	fill: rgba(255,70,84,1);
 }
-.Ellipse_3_ea {
+.Ellipse_3_ed {
 	position: absolute;
 	overflow: visible;
 	width: 3px;
@@ -1773,7 +1832,7 @@
 	top: 1956px;
 	overflow: visible;
 }
-#Path_11_ea {
+#Path_11_eh {
 	fill: rgba(214,15,15,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1782,7 +1841,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_11_ea {
+.Path_11_eh {
 	overflow: visible;
 	position: absolute;
 	width: 19px;
@@ -1791,7 +1850,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Ellipse_1_eb {
+#Ellipse_1_ei {
 	fill: rgba(214,15,15,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1800,7 +1859,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_1_eb {
+.Ellipse_1_ei {
 	position: absolute;
 	overflow: visible;
 	width: 10px;
@@ -1808,7 +1867,7 @@
 	left: 0px;
 	top: 24px;
 }
-#Ellipse_2_ec {
+#Ellipse_2_ej {
 	fill: rgba(214,15,15,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1817,7 +1876,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_2_ec {
+.Ellipse_2_ej {
 	position: absolute;
 	overflow: visible;
 	width: 10px;
@@ -1834,10 +1893,10 @@
 	top: 5422px;
 	overflow: visible;
 }
-#Rectangle_19_ee {
+#Rectangle_19_el {
 	fill: rgba(255,70,84,1);
 }
-.Rectangle_19_ee {
+.Rectangle_19_el {
 	position: absolute;
 	overflow: visible;
 	width: 25px;
@@ -1854,7 +1913,7 @@
 	top: 6064px;
 	overflow: visible;
 }
-#Path_11_eg {
+#Path_11_en {
 	fill: rgba(214,15,15,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1863,7 +1922,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_11_eg {
+.Path_11_en {
 	overflow: visible;
 	position: absolute;
 	width: 19px;
@@ -1872,7 +1931,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Ellipse_1_eh {
+#Ellipse_1_eo {
 	fill: rgba(214,15,15,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1881,7 +1940,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_1_eh {
+.Ellipse_1_eo {
 	position: absolute;
 	overflow: visible;
 	width: 10px;
@@ -1889,7 +1948,7 @@
 	left: 0px;
 	top: 24px;
 }
-#Ellipse_2_ei {
+#Ellipse_2_ep {
 	fill: rgba(214,15,15,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -1898,7 +1957,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Ellipse_2_ei {
+.Ellipse_2_ep {
 	position: absolute;
 	overflow: visible;
 	width: 10px;
@@ -1915,14 +1974,439 @@
 	top: 2073px;
 	overflow: visible;
 }
-#Rectangle_19_ek {
+#Rectangle_19_er {
 	fill: rgba(255,70,84,1);
 }
-.Rectangle_19_ek {
+.Rectangle_19_er {
 	position: absolute;
 	overflow: visible;
 	width: 25px;
 	height: 5px;
 	left: 0px;
 	top: 0px;
+}
+#Component_10__2 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 6306px;
+	overflow: visible;
+}
+#Rectangle_15_et {
+	fill: rgba(255,70,84,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_15_et {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+#Component_11__2 {
+	position: absolute;
+	width: 390px;
+	height: 100px;
+	left: 149px;
+	top: 6535px;
+	overflow: visible;
+}
+#Contact_us {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 391px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: XXII DONT-MESS-WITH-VIKINGS HARDCORE, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(17,16,16,1);
+}
+#Group_15 {
+	position: absolute;
+	width: 780px;
+	height: 586px;
+	left: 987px;
+	top: 6585px;
+	overflow: visible;
+}
+#Group_14 {
+	position: absolute;
+	width: 780px;
+	height: 586px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Component_12__2 {
+	position: absolute;
+	width: 780px;
+	height: 586px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_16_ez {
+	fill: rgba(17,16,16,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_16_ez {
+	filter: drop-shadow(12px 12px 45px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 915px;
+	height: 721px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_21 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 650px;
+	height: 89px;
+	left: 65px;
+	top: 46px;
+}
+#Rectangle_22 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 640px;
+	height: 368px;
+	left: 70px;
+	top: 171px;
+}
+#Name {
+	left: 110px;
+	top: 77px;
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Type_Something {
+	left: 110px;
+	top: 214px;
+	position: absolute;
+	overflow: visible;
+	width: 144px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Component_13__1 {
+	position: absolute;
+	width: 673px;
+	height: 332px;
+	left: 149px;
+	top: 6729px;
+	overflow: visible;
+}
+#Lorem_ipsum_dolor_sit_amet_con_e {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 674px;
+	height: 332px;
+	text-align: left;
+	font-family: Javanese Text, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 8317px;
+	left: 138px;
+	top: 167px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_14__1 {
+	position: absolute;
+	width: 180px;
+	height: 68px;
+	left: 1536px;
+	top: 7084px;
+	overflow: visible;
+}
+#Rectangle_23 {
+	fill: rgba(255,70,84,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_23 {
+	filter: drop-shadow(12px 12px 42px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 306px;
+	height: 194px;
+	left: 0px;
+	top: 0px;
+}
+#SEND {
+	left: 56px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Javanese Text, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Line_5 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 5187px;
+	left: 1776px;
+	top: 3297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_11__3 {
+	position: absolute;
+	width: 249px;
+	height: 100px;
+	left: 836px;
+	top: 7491px;
+	overflow: visible;
+}
+#GALLERY {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 250px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: XXII DONT-MESS-WITH-VIKINGS HARDCORE, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(255,70,84,1);
+}
+#Component_16__1 {
+	position: absolute;
+	width: 513px;
+	height: 309px;
+	left: 145px;
+	top: 7768px;
+	overflow: visible;
+}
+#Rectangle_24 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 513px;
+	height: 309px;
+	left: 0px;
+	top: 0px;
+}
+#Component_16__2 {
+	position: absolute;
+	width: 513px;
+	height: 309px;
+	left: 704px;
+	top: 7768px;
+	overflow: visible;
+}
+#Rectangle_24_fg {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_24_fg {
+	position: absolute;
+	overflow: visible;
+	width: 513px;
+	height: 309px;
+	left: 0px;
+	top: 0px;
+}
+#Component_16__3 {
+	position: absolute;
+	width: 513px;
+	height: 309px;
+	left: 1263px;
+	top: 7768px;
+	overflow: visible;
+}
+#Rectangle_24_fi {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_24_fi {
+	position: absolute;
+	overflow: visible;
+	width: 513px;
+	height: 309px;
+	left: 0px;
+	top: 0px;
+}
+#Component_15__1 {
+	position: absolute;
+	width: 348px;
+	height: 102px;
+	left: 833px;
+	top: 6306px;
+	overflow: visible;
+}
+#Polygon_1 {
+	fill: rgba(236,232,225,1);
+}
+.Polygon_1 {
+	overflow: visible;
+	position: absolute;
+	width: 348px;
+	height: 102px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,0,0) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Link_1 {
+	left: 138px;
+	top: 8526px;
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Arial, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Link_1_fm {
+	left: 138px;
+	top: 8545px;
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Link_1_fn {
+	left: 138px;
+	top: 8564px;
+	position: absolute;
+	overflow: visible;
+	width: 33px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Copyright_2020__Bunda_Esport {
+	left: 138px;
+	top: 8507px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial, valorant;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
 }
